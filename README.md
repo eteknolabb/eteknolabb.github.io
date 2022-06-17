@@ -1,2 +1,2 @@
-# khalifah-jws-esp.github.io
+# eteknolabb.github.io
 Privacy Policy Khalifah JWS ESP
